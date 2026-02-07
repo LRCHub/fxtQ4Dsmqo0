@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "常熱",
   "base_artist": "Vaundy",
-  "createdAt": "2025-12-03T06:03:02.684693Z",
+  "createdAt": "2026-02-07T18:28:08.446269Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,14 @@
       "artist": "Vaundy",
       "has_synced": true,
       "path": "select/02_常熱_-_Jonetsu_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Jonetsu 「常熱」",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/03_Jonetsu_「常熱」_Vaundy.lrc"
     },
     {
       "id": "petitlyrics_1",
